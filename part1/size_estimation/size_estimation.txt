@@ -1,0 +1,35 @@
+users record: 333
+users count: 1000000
+users table: 333000000
+accounts record: 84
+account count: 4000000
+account table: 336000000
+account_types record: 35
+account_types count: 400
+account_types table:14000
+statuses record: 147
+statuses count: 3000000000
+statuses table: 441000000000
+states record: 35
+states count: 30
+states table: 1050
+account_contact_list_relationship record: 16
+account_contact_list_relationship count: 400000000
+account_contact_list_relationship_table: 6400000000
+contact_lists: 41
+contact_lists count: 4000000
+contact_lists table: 164000000
+account_conversation_relationship record: 20
+account_conversation_relationship count: 70000000000
+account_conversation_relationship table: 1400000000000
+conversation record: 13
+conversations count: 30000000000
+conversations table: 390000000000
+messages record: 282
+messages count: 300000000000
+messages table: 84600000000000
+total size in bytes: 86838233015050
+total size in KB: 84802961929.0
+total size in TB: 79.0
+total size in GB: 80874.0
+total size in MB: 82815393.0
