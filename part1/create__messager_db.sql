@@ -136,9 +136,9 @@ CREATE TABLE users
 (
 	first_name           VARCHAR(128) NULL,
 	last_name            VARCHAR(128) NULL,
-	is_male              ENUM NULL,
+	is_male              ENUM('None', 'True', 'False'),
 	birthday             DATE NULL,
-	gender               ENUM NULL,
+	gender               ENUM('None', 'Male', 'Female'),
 	user_id              INTEGER NOT NULL,
 	login                VARCHAR(32) NOT NULL,
 	password             VARCHAR(32) NOT NULL
